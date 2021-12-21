@@ -1,1 +1,2 @@
 teste de funcionamento do git - SSH
+alterando user.name
