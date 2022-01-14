@@ -1,3 +1,7 @@
+body {
+    font: 20px Arial, sans-serif
+}
+
 .navbar {
     background-color: #4E76A6;
 }
@@ -8,4 +12,21 @@
 
 .margin {
     padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros {
+    background-color: #B9BDD3;
+}
+
+.servicos {
+    background-color: #494f6e;
+}
+
+.bg-footer {
+    background-color: black;
+    color: rgb(36, 39, 39);
+    padding: 0%;
+    font-family: Verdana;
+    font-size: 15px;
 }
